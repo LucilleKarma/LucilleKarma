@@ -20,4 +20,4 @@ jobs:
           plugin_code: yes
           plugin_code_languages: C#
           plugin_code_load: 400
-          plugin_code_days: 1
+          plugin_code_days: 180
