@@ -21,4 +21,4 @@ jobs:
           plugin_code_languages: C#, HLSL
           plugin_code_load: 400
           plugin_code_days: 60
-          plugin_code_lines: 32
+          plugin_code_lines: 64
